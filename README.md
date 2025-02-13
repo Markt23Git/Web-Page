@@ -7,5 +7,5 @@
    
 
 
-    </test>
+The purpose of this Web-site is to practice my coding and web design skills 
 </html>
