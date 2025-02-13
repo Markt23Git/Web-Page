@@ -3,9 +3,9 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>My First Web-Page</title>
-    </head>
-    <body>
+        My First Web-Page
+    </Test>
+    <This is the first web page I have made using Git Hub>
 
 
     </body>
