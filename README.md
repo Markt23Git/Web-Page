@@ -9,3 +9,4 @@ Our company Oh Shirt Up is a US based online retailer that specializes in graphi
 <br>Current Marketplace:  23 locations 
 <br>Product offering: over 500 unique items, some manufactured in house others sourced from partnering companies
 </p>
+<br> About Us
