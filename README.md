@@ -1,11 +1,10 @@
 # Web-Page
-<!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-12">
-        My First Web-Page
+        <h1 style="color:blue;">My First Web-Page</h1>
+<p style="color:red;">The purpose of this Web-site is to practice my coding and web design skills </p>
    
 
 
-The purpose of this Web-site is to practice my coding and web design skills 
 </html>
